@@ -1,0 +1,26 @@
+Julian_day_start[1,366]								200
+Julian_day_end[1,366]								200
+Cycle_display_[1,366]								200
+NPP_multiplication_factor_[20-20000]				20000
+Line_offset_(PCI_coordintate_system)_[0,4799]			0
+Number_of_lines_(PCI_coordintate_system)_[1,4800]		4800
+Pixel_offset_(PCI_coordintate_system)_[0,5699]			0
+Pixel_end_(PCI_coordintate_system)_[1,5700]			5700
+Soil_Available_water_holding_capacity_data_file 	
+								e:/bepsinput/common/awc_can.001
+Land_cover_data_file			e:/bepsinput/common/Bound_Ecozone.001
+LAI_data_file					e:/bepsinput/1996/lai_96 
+Snowpack_data_file				e:/bepsinput/1994/snow19940101.00
+NCAR_binary_Data_File			e:/bepsinput/1996/ALL_DAILYS96_INTEL.DAT
+Row_interpolation_file			e:/bepsinput/common/row.DAT
+Column_interpolation_File 		e:/bepsinput/common/col.DAT
+Delta_Row_INterpolation_File	e:/bepsinput/common/dr.DAT
+Delta_Column_Interpolation_File	e:/bepsinput/common/dc.DAT
+Row_Minimum_interpolation_file	e:/bepsinput/common/rowmin.DAT
+Output_NPP?				y
+Output_Plant_Respiration?	n
+Output_Evaporation?		y
+Output_Transpiration?		y
+Output_Site?			n
+		
+
